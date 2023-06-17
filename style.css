@@ -1,0 +1,19 @@
+body{
+    background-image:url(bg.jpg);
+    text-align: center;
+}
+#heading{
+    width: 520px;
+    border-radius: 30px;
+    box-shadow: black 1px 1px 20px;
+}
+.copy_right_footer{
+    bottom: 0px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    box-shadow: black 1px 1px 15px;
+}
+canvas{
+    background-color: black;
+}
